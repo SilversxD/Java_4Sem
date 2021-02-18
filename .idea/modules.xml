@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Java_4Sem.iml" filepath="$PROJECT_DIR$/Java_4Sem.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ru.silversxd.java_4sem/ru.silversxd.java_4sem.iml" filepath="$PROJECT_DIR$/ru.silversxd.java_4sem/ru.silversxd.java_4sem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_4Sem.iml" filepath="$PROJECT_DIR$/.idea/Java_4Sem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_4sem/Java_4sem.iml" filepath="$PROJECT_DIR$/Java_4sem/Java_4sem.iml" />
     </modules>
   </component>
 </project>
